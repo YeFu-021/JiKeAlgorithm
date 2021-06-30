@@ -11,7 +11,5 @@ public class TestRA {
         r.print();
         r.delete(5);
         r.print();
-
-
     }
 }
